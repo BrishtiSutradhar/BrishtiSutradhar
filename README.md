@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst from Portugal.</h3>
 
 
-- 🔭 I completed my project **as a Data Analyst at Lewagon.**
+- 🔭 I completed my project **as a Data Analyst at Le Wagon.**
 
 - 👨‍💻 I’m looking to collaborate on **github.**
 
