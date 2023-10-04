@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brishti.</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=435&lines=A+passionate+Data+Analyst+from+Portugal;Le+Wagon+Alumni;Life+long+learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=435&lines=A+passionate+Data+Analyst;Le+Wagon+Alumni;Life+long+learner" alt="Typing SVG" /></a>
 </p>
 
 
