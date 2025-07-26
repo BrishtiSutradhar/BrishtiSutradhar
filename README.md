@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m looking to collaborate on **github.**
 
-- 👯 Worked on a group projects **home exchange Business Churn Rate.**
+- 👯 Worked on a group projects **home exchange Business Churn Rate Analysis.**
 
 - 💬 Ask me about **Data Analytics.**
 
