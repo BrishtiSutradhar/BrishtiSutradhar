@@ -1,23 +1,37 @@
-<h1 align="center">Hi 👋, I'm Brishti.</h1>
+<h1 align="center">Hi 👋, I'm Brishti Sutradhar.</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=435&lines=A+passionate+Data+Analyst;Le+Wagon+Alumni;Life+long+learner" alt="Typing SVG" /></a>
 </p>
 
 
+### 🚀 About Me
+- 🎓 Pursuing a **B.Sc. in Data Science & Management** at Universidade Europeia (Lisbon, Portugal).
+- 📊 Graduate of the **Le Wagon Data Analytics Bootcamp**.
+- 🛠️ Currently building data-driven projects focusing on **EDA, Machine Learning, and Interactive Dashboards**.
+- 🤝 Open to collaborations on open-source data analytics and data science projects.
+- 📬 **Email:** [brishtisutradharbb@gmail.com](mailto:brishtisutradharbb@gmail.com)
 
-- 🔭 I completed my project **as a Data Analyst at Le Wagon.**
+---
 
-- 👨‍💻 I’m looking to collaborate on **github.**
+### 🧰 Tech Stack & Tools
 
-- 👯 Worked on a group projects **home exchange Business Churn Rate Analysis.**
+**Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 💬 Ask me about **Data Analytics.**
+**Data Visualization & Analytics**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- 📫 How to reach me **brishtisutradharbb@gmail.com**
+**Tools & Cloud**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-- ⚡ Fun fact **I think I'm not so funny.😊**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/brishti-sutradhar/" target="_blank">
@@ -35,7 +49,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brishtisutradhar&" alt="brishtisutradhar" /></p>
 
 
-# Hi 👋, I'm Brishti Sutradhar
+
 
 🎓 **B.Sc. Data Science & Management Student** at *Universidade Europeia*  
 💼 **Data Analyst** | Passionate about Data Visualization, SQL, and Business Insights
