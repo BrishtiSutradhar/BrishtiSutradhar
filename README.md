@@ -35,3 +35,47 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brishtisutradhar&" alt="brishtisutradhar" /></p>
 
 
+# Hi 👋, I'm Brishti Sutradhar
+
+🎓 **B.Sc. Data Science & Management Student** at *Universidade Europeia*  
+💼 **Data Analyst** | Passionate about Data Visualization, SQL, and Business Insights
+
+---
+
+### 🚀 About Me
+- 🎓 Pursuing a **B.Sc. in Data Science & Management** at Universidade Europeia (Lisbon, Portugal).
+- 📊 Graduate of the **Le Wagon Data Analytics Bootcamp**.
+- 🛠️ Currently building data-driven projects focusing on **EDA, Machine Learning, and Interactive Dashboards**.
+- 🤝 Open to collaborations on open-source data analytics and data science projects.
+- 📬 **Email:** [brishtisutradharbb@gmail.com](mailto:brishtisutradharbb@gmail.com)
+
+---
+
+### 🧰 Tech Stack & Tools
+
+**Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Visualization & Analytics**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & Cloud**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+- 📉 **[Home Exchange Churn Analysis](https://github.com/BrishtiSutradhar)** – Business churn rate analysis and actionable recommendations using Python & Power BI.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brishti-sutradhar)
+
+
